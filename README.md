@@ -16,7 +16,7 @@ Given a 3D input point cloud, return a 3D mesh reconstruction.
 For example we get (up to multiple millions) of points that lie on the surface of a chair. By applying our reconstruction Pipeline, we can then return the corresponding 3D mesh representation, hence a 3D model of the chair.
 
 <img src="images/pic2.png"
-     style="height: 100px" />
+     style="height: 200px" />
 
 ## Implementation details
 **Arichtecture**: VAE + GNN (The whole Architecture is a variational autoencoder. In the encoding step we use an attention-based Graph neural network to assign each point a feature vector, which we then use in the implicit decoder to predict a signed distance function value. Based on these predictions a marching cubes algorithm then returns the 3D mesh.) <br>
