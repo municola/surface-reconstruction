@@ -1,6 +1,8 @@
 # ReconRLA: Point-based large-scale Surface Reconstruction from Point Clouds [[PDF](https://github.com/municola/surface-reconstruction/blob/master/BachelorThesis.pdf)]
 
-This is my Bachelor Thesis. <br><br>
+This is my Bachelor Thesis. <br>
+It is based on the [Reconstruction Pipeline](https://ieeexplore.ieee.org/abstract/document/9320319) from Lombardo et al. and [RandLA](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_RandLA-Net_Efficient_Semantic_Segmentation_of_Large-Scale_Point_Clouds_CVPR_2020_paper.pdf) from Hu et al.
+<br><br>
 Advisor: [Sandro Lombardi](https://scholar.google.com/citations?hl=de&user=17JjMPoAAAAJ)<br>
 Supervisor: [Prof. Dr. Marc Pollefeys](https://scholar.google.com/citations?hl=de&user=YYH0BjEAAAAJ)<br>
 
